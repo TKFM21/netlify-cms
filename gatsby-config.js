@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `TKFM21 Starter Blog`,
-    author: `Kyle TKFM21`,
+    title: `このサイトのタイトル`,
+    author: `管理者名を追加`,
     description: `Gatsby and Netlifyでブログをやってる`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
